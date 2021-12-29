@@ -1,6 +1,6 @@
 {
   "name": "lambda-types",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Generic AWS lambda types for use in serverless frameworks.",
   "main": "./index.js",
   "types": "./index.d.ts",
