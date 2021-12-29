@@ -1,0 +1,13 @@
+/.github
+/.husky
+/coverage
+/lib
+/scripts
+.pnpm-store
+.c8rc
+.gitignore
+.prettierignore
+.prettierrc
+commitlint.config.js
+release.config.js
+tsconfig.json
